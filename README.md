@@ -16,6 +16,10 @@ A full-stack platform that runs an amateur padel league end to end: player regis
 
 <img src="docs/screenshot-player.png" alt="Player profile dialog with achievements and score breakdown" width="420">
 
+**Player profile: match history, points progress and league day participation**
+
+<img src="docs/screenshot-player2.png" alt="Player profile dialog with match history and points chart" width="420">
+
 **Admin panel: dashboard and the full set of management tools**
 
 <img src="docs/screenshot-admin.png" alt="Admin dashboard with the navigation menu open" width="700">
