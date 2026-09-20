@@ -6,11 +6,19 @@ A full-stack platform that runs an amateur padel league end to end: player regis
 
 > The source code is kept private because this is a running product. Happy to give a live code walkthrough in an interview.
 
-<!-- Uncomment once the images exist in docs/
-![Screenshot: public home / rankings](docs/screenshot-home.png)
-![Screenshot: live match scoring](docs/screenshot-scoring.png)
-![Screenshot: admin dashboard](docs/screenshot-admin.png)
--->
+## Screenshots
+
+**Public home: live rankings per division and season**
+
+<img src="docs/screenshot-home.png" alt="Public home page with division rankings" width="420">
+
+**Player profile: badges, score breakdown and season stats**
+
+<img src="docs/screenshot-player.png" alt="Player profile dialog with achievements and score breakdown" width="420">
+
+**Admin panel: dashboard and the full set of management tools**
+
+<img src="docs/screenshot-admin.png" alt="Admin dashboard with the navigation menu open" width="700">
 
 ## What it does
 
