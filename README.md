@@ -90,4 +90,4 @@ Designed, built and deployed the whole system on my own: frontend, backend, data
 
 ## Contact
 
-Interested in a walkthrough of the code or architecture? Reach out via my GitHub profile or the contact details on my CV.
+Interested in a walkthrough of the code or architecture? Reach out on [LinkedIn](https://www.linkedin.com/in/alytobbala/) or via my [GitHub profile](https://github.com/alytobbala).
